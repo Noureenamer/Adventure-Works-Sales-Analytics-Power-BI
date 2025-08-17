@@ -31,7 +31,7 @@ The goal is to transform raw business data into actionable insights for better d
    ```bash
    https://github.com/Noureenamer/Adventure-Works-Sales-Analytics-Power-BI-.git
    ```
-2. Open the `.pbix` file inside Power BI Desktop.  
+2. Open the drive link embededd `.pbix` file inside Power BI Desktop.  
 3. Connect to the AdventureWorks database (or use included sample data).  
 
 ---
