@@ -7,7 +7,7 @@ The goal is to transform raw business data into actionable insights for better d
 ---
 
 ## 🎥 Demo
-![Dashboard Demo](demo/demo.gif)
+![Dashboard Demo](demo/adventureWorks.gif)
 
 ---
 
@@ -29,7 +29,7 @@ The goal is to transform raw business data into actionable insights for better d
 ## ⚡ How to Use
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YourUsername/AdventureWorks-Sales-Analytics.git
+   https://github.com/Noureenamer/Adventure-Works-Sales-Analytics-Power-BI-.git
    ```
 2. Open the `.pbix` file inside Power BI Desktop.  
 3. Connect to the AdventureWorks database (or use included sample data).  
