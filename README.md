@@ -37,7 +37,7 @@ The goal is to transform raw business data into actionable insights for better d
 ---
 
 ## 📷 Sample Dashboards
-![Sales Overview](reports/sales_overview.png)  
+![Sales Overview](reports/salesSample.jpg)  
 ![Customer Analysis](reports/customers.png)  
 
 ---
